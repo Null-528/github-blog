@@ -4,7 +4,7 @@
 
 # Site
 title: EternalLoop
-subtitle: ''
+subtitle: 'A Journey Eternal, A Loop Unending.'
 description: 'Exploring the Infinite'
 keywords:
 author: Amber
@@ -15,7 +15,7 @@ timezone: ''
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://null-528.github.io/
 permalink: post/:abbrlink.html
-abrlink:
+abbrlink:
   alg: crc32
   rep: hex
 permalink_defaults:
@@ -49,7 +49,7 @@ future: true
 syntax_highlighter: highlight.js
 highlight:
   line_number: true
-  auto_detect: false
+  auto_detect: true
   tab_replace: ''
   wrap: true
   hljs: false
