@@ -1,6 +1,7 @@
 ---
 title: Hello World
 abbrlink: 4a17b156
+date: 2022-02-23 10:29:08
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
@@ -37,3 +38,11 @@ $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+
+## my frequently used commands
+
+``` bash
+$ hexo new post 'postname'
+$ hexo cl && hexo g && hexo s
+$ hexo d
+```
